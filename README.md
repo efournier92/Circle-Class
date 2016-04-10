@@ -20,7 +20,7 @@ the constructor and the ability to specify a diameter or radius as an option.
 
 Using the `kind_of?` method displays the circle object, along with that circle's radius.
 
-Usage looks like this:
+**Usage looks like this:**
 
 ```no-highlight
 pry(main)> Circle.new({diameter: 12})
